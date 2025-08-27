@@ -1,5 +1,7 @@
 # Synthetic OCT Scans (.npy) for MedSAM Fine-Tuning
 
+files available here: https://cloud.mail.ru/public/q9aa/TeQNG2MSX
+
 This repository provides a synthetic Optical Coherence Tomography (OCT) dataset prepared for fine-tuning MedSAM. The data are already packaged in a ready-to-use format compatible with MedSAM’s training script:
 https://github.com/bowang-lab/MedSAM
 
