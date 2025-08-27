@@ -7,7 +7,7 @@ All images and ground-truth masks are synthetic; no real patient data is include
 
 ## Directory structure
 
-Put the data into the following structure (or use as provided if already arranged):
+Put the data into the following structure:
 
 ```
 Data/
