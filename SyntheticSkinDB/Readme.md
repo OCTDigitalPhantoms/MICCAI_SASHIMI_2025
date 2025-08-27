@@ -41,7 +41,6 @@ If you use this dataset, please cite the accompanying proceedings paper and MedS
   author    = {Nikoshin, Denis and Mikhailenko, Daniil and Sovetsky, Alexander and Matveyev, Alexander and Zaitsev, Vladimir and Matveev, Lev},
   booktitle = {Simulation and Synthesis in Medical Imaging. SASHIMI 2025. Lecture Notes in Computer Science},
   year      = {2025},
-  note      = {Camera-ready version},
 }
 ```
 
