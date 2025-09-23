@@ -38,11 +38,25 @@ You are free to use, modify, and distribute it for any purpose without restricti
 If you use this dataset, please cite the accompanying proceedings paper and MedSAM:
 
 ```
-@inproceedings{Nikoshin2025SyntheticOCT,
-  title     = {From Tissue-Mimicking Phantoms to Physics-Based Scans: Synthetic OCT for Few-Shot Foundation Model Training},
-  author    = {Nikoshin, Denis and Mikhailenko, Daniil and Sovetsky, Alexander and Matveyev, Alexander and Zaitsev, Vladimir and Matveev, Lev},
-  booktitle = {Simulation and Synthesis in Medical Imaging. SASHIMI 2025. Lecture Notes in Computer Science},
-  year      = {2025},
+@InProceedings{10.1007/978-3-032-05573-6_5,
+author="Nikoshin, Denis
+and Mikhailenko, Daniil
+and Sovetsky, Alexander
+and Matveyev, Alexander
+and Zaitsev, Vladimir
+and Matveev, Lev",
+editor="Fernandez, Virginia
+and Wiesner, David
+and Zuo, Lianrui
+and Casamitjana, Adri{\`a}
+and Remedios, Samuel W.",
+title="From Tissue-Mimicking Phantoms to Physics-Based Scans: Synthetic OCT for Few-Shot Foundation Model Training",
+booktitle="Simulation and Synthesis in Medical Imaging",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="44--51",
+isbn="978-3-032-05573-6"
 }
 ```
 
