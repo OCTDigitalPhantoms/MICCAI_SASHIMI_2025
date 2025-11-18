@@ -29,6 +29,8 @@ scatterers coordinates file = patient01_slice0_var0_scatterers.dat
 number of scatterers in b-scan = 255000
 ```
 
+**This work was supported by the Russian Science Foundation Grant No. 25-12-20032 ( https://rscf.ru/en/project/25-12-20032/ ).**
+
 Please cite:
 
 ```
