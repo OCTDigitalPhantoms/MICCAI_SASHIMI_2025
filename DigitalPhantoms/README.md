@@ -1,3 +1,5 @@
+**Due to limited Repo space we provide here only first six examples (from 32)**
+
 To generate synthetic scans using Digital phantoms:
 1. Download the dat and ini for the phantom from the DigitalPhantoms folder
 2. Log in to https://accounts.opticelastograph.com/ 
