@@ -1,4 +1,5 @@
-**Due to limited Repo space we provide here only first six examples (from 32)**
+**Digital Phantoms from "Virtual Patients" - 32 Samples**
+Note: These are not digital twins of the real patients. The layers and inclusion masks are randomly parameterized.
 
 To generate synthetic scans using Digital phantoms:
 1. Download the dat and ini for the phantom from the DigitalPhantoms folder
